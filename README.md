@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+virtual-art-gallery
+# Virtual Art Gallery
 
-Based on "ABC" at https://www.abc.com/
+Based on "Virtual Art Gallery" at https://app.virtualartgallery.com/#home
 
 ## 100 - Introduction
 
